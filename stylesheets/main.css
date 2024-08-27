@@ -94,5 +94,5 @@
 
     @font-face {
       font-family: bahnschrift;
-      src: url('BAHNSCHRIFT.TTF');
+      src: url('../fonts/BAHNSCHRIFT.TTF');
     }
