@@ -1,6 +1,6 @@
   html, body {
       height: 100%;
-      width: 100%;
+      width: 90%;
       margin: 0;
       padding: 0;
       background-color: #999999;
@@ -34,7 +34,7 @@
     }
 
     p, text-container, .text-container {
-      margin: 10px;
+      margin: auto;
       padding: 10px;
       max-width: 80%;
     }
