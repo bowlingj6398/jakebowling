@@ -14,7 +14,6 @@
       background-repeat: no-repeat;
       background-attachment: fixed;
       overflow-x: hidden;
-      max-width: 100%;
       word-wrap: normal;
     }
 
@@ -35,10 +34,8 @@
     }
 
     p {
-      max-width: 100%;
       margin: 0 auto;
       padding: 0 15px;
-      word-wrap: break-word;
     }
 
     button {
