@@ -89,6 +89,10 @@
       border-radius: 5px;
     }
 
+    .text-container {
+      margin: 10px;
+    }
+
     @font-face {
       font-family: bahnschrift;
       src: url('../fonts/BAHNSCHRIFT.TTF');
