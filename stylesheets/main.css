@@ -55,6 +55,11 @@
       background-color: rgba(192, 192, 192, 1);
     }
 
+    img {
+      height: 50%;
+      width: 50%;
+    }
+
     .navbar {
       background-color: rgba(211, 211, 211, 0.5); 
       padding: 10px 20px;
